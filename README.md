@@ -12,6 +12,7 @@ Programs:
 - brightnessctl
 - kitty
 - shutter
+- compton
  
  Fonts:
  - Roboto
